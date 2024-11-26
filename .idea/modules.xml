@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../napredne-tehnike-programiranja-web-servisa.iml" filepath="$PROJECT_DIR$/../napredne-tehnike-programiranja-web-servisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/napredne-tehnike-programiranja-web-servisa.iml" filepath="$PROJECT_DIR$/.idea/napredne-tehnike-programiranja-web-servisa.iml" />
     </modules>
   </component>
 </project>

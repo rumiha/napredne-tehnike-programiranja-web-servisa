@@ -1,0 +1,72 @@
+main {
+    flex: 1;
+    padding: 20px;
+    max-width: 1200px;
+}
+
+.map h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #333;
+    border-bottom: solid 2px #333;
+}
+
+.map {
+    padding: 20px;
+}
+
+.map iframe {
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+}
+
+/* Kontakt forma */
+.contact-form {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: grid;
+    gap: 15px;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input,
+form select,
+form textarea {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+form button:hover {
+    background-color: #555;
+}
