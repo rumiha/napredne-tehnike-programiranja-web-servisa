@@ -1,0 +1,48 @@
+.registration {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 80px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.registration label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.registration input[type="text"],
+.registration input[type="email"],
+.registration input[type="date"],
+.registration input[type="password"],
+.registration select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.registration button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.registration button:hover {
+    background-color: #45a049;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}

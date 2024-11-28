@@ -32,6 +32,12 @@ switch ($menu) {
     case "gallery":
         include "gallery/gallery.php";
         break;
+    case "login":
+        include "auth/login.php";
+        break;
+    case "register":
+        include "auth/register.php";
+        break;
     default:
         include "home.php";
 }

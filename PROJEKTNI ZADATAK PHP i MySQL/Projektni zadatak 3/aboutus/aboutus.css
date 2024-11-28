@@ -1,0 +1,31 @@
+.about {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.about h2 {
+    text-align: left;
+    margin-bottom: 20px;
+    color: blue;
+}
+
+.content {
+    overflow: hidden;
+}
+
+.content video {
+    float: left;
+    margin: 0 20px 20px 0;
+    width: 400px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.text p {
+    text-align: justify;
+    margin: 0 0 10px 0;
+    line-height: 1.6;
+}
