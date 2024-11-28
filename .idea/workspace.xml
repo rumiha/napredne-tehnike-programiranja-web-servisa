@@ -4,164 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e139d0dd-195a-47c5-bc8b-92e5e016e91f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/napredne-tehnike-programiranja-web-servisa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 3/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 3/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 4/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 4/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/images/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/images/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 5/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/news1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/news2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/news3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/news4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/news5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news/news1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news/news2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news/news3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news/news4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news/news5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/contact/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/contact/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news1-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news1-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news1-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news2-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news2-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news3-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news3-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news3-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news4-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news4-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news4-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news5-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news5-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/news5-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/images/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news/news1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news/news2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news/news3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news/news4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news/news5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/contact/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/contact/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/gallery/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/gallery/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news1-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news1-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news1-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news2-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news2-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news3-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news3-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news3-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news4-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news4-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news4-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news5-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news5-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/news5-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/images/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/news/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/news/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/news/news1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/news/news2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/news/news3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/news/news4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/news/news5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/aboutus/aboutus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/aboutus/aboutus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/contact/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/contact/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/gallery/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/gallery/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery10.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery7.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/gallery9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news1-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news1-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news1-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news2-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news2-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news3-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news3-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news3-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news4-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news4-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news4-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news5-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news5-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/news5-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/images/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/news/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/news/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/news/news1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/news/news2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/news/news3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/news/news4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/news/news5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/videos/video.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e139d0dd-195a-47c5-bc8b-92e5e016e91f" name="Changes" comment="promjene">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/aboutus/aboutus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/aboutus/aboutus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/contact/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/contact/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/gallery/gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/gallery/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/facebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/gallery9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news1-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news1-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news1-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news2-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news2-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news3-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news4-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news4-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news4-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news5-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news5-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/news5-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/images/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/news/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/news/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/news/news1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/news/news2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/news/news3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/news/news4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/news/news5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1/videos/video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/contact/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/contact/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -188,7 +93,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/home/prumiha/Documents/napredne-tehnike-programiranja-web-servisa/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/aboutus",
+    "last_opened_file_path": "/home/prumiha/Documents/napredne-tehnike-programiranja-web-servisa/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -199,18 +104,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1" />
+      <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/aboutus" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 8/gallery" />
-      <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/contact" />
-      <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 9/videos" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 7/news" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/images" />
-      <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK HTML5 i CSS3/Projektni zadatak 6/news" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -222,12 +127,47 @@
       <option name="presentableId" value="Default" />
       <updated>1732526377966</updated>
       <workItem from="1732526382393" duration="9640000" />
-      <workItem from="1732646958945" duration="5351000" />
+      <workItem from="1732646958945" duration="7032000" />
+      <workItem from="1732793221951" duration="1316000" />
+      <workItem from="1732794549741" duration="6847000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1732655872969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732655872969</updated>
+    </task>
+    <task id="LOCAL-00002" summary="promjene">
+      <option name="closed" value="true" />
+      <created>1732656279020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732656279020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <MESSAGE value="promjene" />
+    <option name="LAST_COMMIT_MESSAGE" value="promjene" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
