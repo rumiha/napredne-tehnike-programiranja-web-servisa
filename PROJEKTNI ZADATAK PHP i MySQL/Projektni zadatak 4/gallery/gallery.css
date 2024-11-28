@@ -1,0 +1,42 @@
+figure {
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin: 0 auto;
+}
+
+figure:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.2);
+}
+
+figure img {
+    width: 100%; /* Slika ispunjava širinu roditelja */
+    height: 200px; /* Postavite fiksnu visinu za sve slike */
+    object-fit: cover; /* Smanjuje i obrezuje sliku kako bi ispunila okvir */
+    border-radius: 5px; /* Opcionalno: zaokruženi rubovi */
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #555;
+    text-align: center;
+}
+
+figcaption p {
+    margin: 5px 0;
+    line-height: 1.6;
+}
