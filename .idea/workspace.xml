@@ -4,79 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e139d0dd-195a-47c5-bc8b-92e5e016e91f" name="Changes" comment="php3">
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/aboutus/aboutus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/aboutus/aboutus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth/administration.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth/login_page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth/register_page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth/registration.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth/update_roles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/contact/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/contact/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/gallery/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/gallery/gallery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/facebook.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery10.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery7.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/gallery9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news1-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news1-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news1-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news2-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news2-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news3-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news3-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news3-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news4-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news4-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news4-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news5-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news5-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/news5-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/images/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/add_news.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/add_news_to_db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/delete_news.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/news_details.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/update_news.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news/update_news_to_db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/videos/video.mp4" afterDir="false" />
+    <list default="true" id="e139d0dd-195a-47c5-bc8b-92e5e016e91f" name="Changes" comment="php4">
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/about-us.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/img/banner-php.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/img/google+.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/img/html5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/img/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/img/sir-tim-berners-lee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/img/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/img/video-cover-sir-tim-berners-lee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/news/_106608486_usconstructionworkers_getty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/news/_106609825_usshoppers_getty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/news/_98453687_w0dskswv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/news/_98501093_booking-template_4panel_976x549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/news/_98509359_uscarproduction_getty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/send-contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 12/phpproject-cookie/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/about-us.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/img/banner-php.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/img/google+.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/img/html5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/img/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/img/sir-tim-berners-lee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/img/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/img/video-cover-sir-tim-berners-lee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/news/_106608486_usconstructionworkers_getty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/news/_106609825_usshoppers_getty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/news/_98453687_w0dskswv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/news/_98501093_booking-template_4panel_976x549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/news/_98509359_uscarproduction_getty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/send-contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 13/phpproject-cookie/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 14.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 15.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 16.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 17.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 17.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 18.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VJEZBE/Vjezba Broj 9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/phpmyadmin.q9h56A.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/phpmyadmin.q9h56A.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/projektni_zadatak.h0vuNg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/projektni_zadatak.h0vuNg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/test.kkQ2AA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9cd9799b-be4b-44bf-9ffd-5e5419b0c8bc/storage_v2/_src_/schema/test.kkQ2AA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,37 +92,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/home/prumiha/Documents/napredne-tehnike-programiranja-web-servisa/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/prumiha/Documents/napredne-tehnike-programiranja-web-servisa/VJEZBE&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/VJEZBE" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/auth" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 4/news" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL" />
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 3/auth" />
-      <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PROJEKTNI ZADATAK PHP i MySQL/Projektni zadatak 3/auth" />
@@ -153,7 +143,10 @@
       <workItem from="1732526382393" duration="9640000" />
       <workItem from="1732646958945" duration="7032000" />
       <workItem from="1732793221951" duration="1316000" />
-      <workItem from="1732794549741" duration="20083000" />
+      <workItem from="1732794549741" duration="20749000" />
+      <workItem from="1732897750771" duration="4400000" />
+      <workItem from="1733132102330" duration="15000" />
+      <workItem from="1733167680077" duration="2770000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />
@@ -187,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732811892351</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="php4">
+      <option name="closed" value="true" />
+      <created>1732827409975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732827409975</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +210,8 @@
     <MESSAGE value="promjene" />
     <MESSAGE value="php1" />
     <MESSAGE value="php3" />
-    <option name="LAST_COMMIT_MESSAGE" value="php3" />
+    <MESSAGE value="php4" />
+    <option name="LAST_COMMIT_MESSAGE" value="php4" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
